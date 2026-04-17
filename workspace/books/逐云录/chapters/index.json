@@ -138,5 +138,40 @@
       "completionTokens": 6536,
       "totalTokens": 43655
     }
+  },
+  {
+    "number": 5,
+    "title": "逐云令：林间",
+    "status": "ready-for-review",
+    "wordCount": 1542,
+    "createdAt": "2026-04-17T13:41:36.145Z",
+    "updatedAt": "2026-04-17T13:42:07.717Z",
+    "auditIssues": [
+      "[warning] 第5章整体为高强度逃亡与身份剥夺场景，情绪持续紧绷，缺乏短暂缓冲或信息释放节点，可能使读者产生压迫疲劳。",
+      "[warning] H001（残片共鸣）在本章仅通过‘玉片震颤’一笔带过，未体现与陆家地库残片的具体互动或感知细节，削弱了伏笔推进的实感。",
+      "[info] 文中‘云毒像细针般往骨缝里钻’‘青黑如墨’等描写符合体感风格，但‘钟声与犬吠混成一片，像一首送葬的谣’略显诗意化，与整体冷峻基调略有偏差。",
+      "[info] 陆家护卫仅作为追杀符号出现，缺乏个体特征或战术配合描写，易沦为背景板。",
+      "[warning] 最近4章持续高压（压抑、警觉、决绝 -> 紧张、震惊、希望 -> 冷峻、决绝、使命觉醒 -> 紧张、悲凉、决绝、使命深化），缺少明显的情绪释放。"
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 1500,
+      "softMin": 1296,
+      "softMax": 1704,
+      "hardMin": 1091,
+      "hardMax": 1909,
+      "countingMode": "zh_chars",
+      "writerCount": 1181,
+      "postWriterNormalizeCount": 1542,
+      "postReviseCount": 0,
+      "finalCount": 1542,
+      "normalizeApplied": true,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 42834,
+      "completionTokens": 6209,
+      "totalTokens": 49043
+    }
   }
 ]
