@@ -280,5 +280,40 @@
       "completionTokens": 6159,
       "totalTokens": 48378
     }
+  },
+  {
+    "number": 9,
+    "title": "山夜",
+    "status": "ready-for-review",
+    "wordCount": 1573,
+    "createdAt": "2026-04-17T16:06:30.665Z",
+    "updatedAt": "2026-04-17T16:07:01.686Z",
+    "auditIssues": [
+      "[warning] 第6-9章连续四章均为‘喘息+使命深化+线索推进’类型，缺乏动作或冲突爆发节点，节奏趋于平缓，可能影响读者紧张感维持。",
+      "[warning] 老妇在本章主要作用为提供情绪渲染与推动主角回忆，其孙儿失踪线索未获实质推进，烫伤来源亦未解释，存在被用作‘情感催化剂’而非独立角色的倾向。",
+      "[info] H001（残片之谜）与H002（人物伏笔）持续推进，守门人定义深化、父子使命传承通过回忆自然展开，符合中程回收节奏；玉片搏动停止但方向指引仍在，保持悬念。",
+      "[info] 主角经历‘悲凉共情→自我怀疑→决绝重建’的完整情绪闭环，信念在质疑后更坚定，符合‘守门人’身份认同的深化路径，情感张力充足。",
+      "[info] 文风冷峻细腻，体感描写到位（如‘细针在骨缝里刮’‘血珠凝成细线’），比喻贴合玄幻语境（‘一线明’‘未睁开的眼睛’），无AI标记词滥用，符合指南要求。"
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 1500,
+      "softMin": 1296,
+      "softMax": 1704,
+      "hardMin": 1091,
+      "hardMax": 1909,
+      "countingMode": "zh_chars",
+      "writerCount": 1046,
+      "postWriterNormalizeCount": 1573,
+      "postReviseCount": 0,
+      "finalCount": 1573,
+      "normalizeApplied": true,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 41352,
+      "completionTokens": 6290,
+      "totalTokens": 47642
+    }
   }
 ]
