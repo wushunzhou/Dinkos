@@ -317,5 +317,41 @@
       "completionTokens": 6290,
       "totalTokens": 47642
     }
+  },
+  {
+    "number": 10,
+    "title": "裂瞳",
+    "status": "audit-failed",
+    "wordCount": 2062,
+    "createdAt": "2026-04-17T18:22:24.844Z",
+    "updatedAt": "2026-04-17T18:23:29.055Z",
+    "auditIssues": [
+      "[warning] 第10章中‘老妇从岩后奔出’一段，视角短暂脱离沈逐云有限感知，未交代其如何察觉老妇靠近，存在轻微越界风险。",
+      "[warning] 连续三章（7-9章）以‘逃亡+危机升级’或‘喘息+使命深化’为主，第10章虽为觉醒高潮，但战斗描写密集，缺乏情绪缓冲，易造成阅读疲劳。",
+      "[info] ‘血’字高频出现（共17次），部分可替换为‘赤’‘殷’‘暗红’等变体，避免重复。",
+      "[info] 陆家护卫提及‘九爷要活的’，但未说明‘九爷’身份，可能提前泄露后续反派信息。",
+      "[warning] 连续出现3个不足35字的短段，容易形成短句堆砌。",
+      "[warning] Manual text edit requires review before continuation."
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 1900,
+      "softMin": 1641,
+      "softMax": 2159,
+      "hardMin": 1382,
+      "hardMax": 2418,
+      "countingMode": "zh_chars",
+      "writerCount": 1317,
+      "postWriterNormalizeCount": 2062,
+      "postReviseCount": 0,
+      "finalCount": 2062,
+      "normalizeApplied": true,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 45623,
+      "completionTokens": 6756,
+      "totalTokens": 52379
+    }
   }
 ]
