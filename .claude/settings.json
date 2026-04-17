@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "if": "Bash(inkos write*)",
+            "command": "node /home/user/Dinkos/scripts/check-review-needed.mjs",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
