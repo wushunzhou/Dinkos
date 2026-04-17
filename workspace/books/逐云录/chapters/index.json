@@ -211,5 +211,39 @@
       "completionTokens": 6408,
       "totalTokens": 52388
     }
+  },
+  {
+    "number": 7,
+    "title": "雾谷东南",
+    "status": "ready-for-review",
+    "wordCount": 1456,
+    "createdAt": "2026-04-17T14:23:21.979Z",
+    "updatedAt": "2026-04-17T14:23:45.864Z",
+    "auditIssues": [
+      "[warning] 第7章整体节奏偏缓，虽延续逃亡与危机氛围，但缺乏关键动作或信息突破，与前章《庙前谣》的温情缓冲形成重复性‘压抑—决绝’循环，未实现有效推进。",
+      "[warning] 主角内心独白中‘他知道，乱云潮要来了。而玉片的心跳，正引着他，一步步走向风暴中央’一句，带有轻微上帝视角倾向，暗示其对乱云潮机制有超出当前认知的把握。",
+      "[info] ‘心跳’一词在本章出现4次（含‘心跳加速’‘心跳与雷声呼应’等），虽为关键意象，但密集使用略显重复。",
+      "[info] 结尾‘他笑了，笑里带着自嘲，也带着决绝’略显直白，与前文冷峻克制的文风略有出入。"
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 1500,
+      "softMin": 1296,
+      "softMax": 1704,
+      "hardMin": 1091,
+      "hardMax": 1909,
+      "countingMode": "zh_chars",
+      "writerCount": 840,
+      "postWriterNormalizeCount": 1456,
+      "postReviseCount": 0,
+      "finalCount": 1456,
+      "normalizeApplied": true,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 43779,
+      "completionTokens": 5914,
+      "totalTokens": 49693
+    }
   }
 ]

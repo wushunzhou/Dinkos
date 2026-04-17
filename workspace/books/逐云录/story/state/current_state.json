@@ -1,53 +1,53 @@
 {
-  "chapter": 6,
+  "chapter": 7,
   "facts": [
     {
       "subject": "protagonist",
       "predicate": "当前位置",
-      "object": "雾谷深处山神庙前，向东南方向移动",
-      "validFromChapter": 6,
+      "object": "雾谷东南断崖，向裂口方向移动",
+      "validFromChapter": 7,
       "validUntilChapter": null,
-      "sourceChapter": 6
+      "sourceChapter": 7
     },
     {
       "subject": "protagonist",
       "predicate": "主角状态",
-      "object": "一境灰云，云核残缺，肩中刀伤渗血，破妄瞳未觉醒（硬约束）；寿元未损（首次觉醒不折寿）；玉片碎裂，青气已入体；左臂云毒侵蚀加重（青黑蔓延至肘弯，指甲铁灰）；获得粗盐与干姜，可暂压云毒；情绪决绝，使命感强化；玉片持续震颤指向东南（陆家地库方向）",
-      "validFromChapter": 6,
+      "object": "一境灰云，云核残缺，肩中刀伤渗血，破妄瞳未觉醒（硬约束）；寿元未损（首次觉醒不折寿）；玉片碎裂，青气已入体；左臂云毒侵蚀加重（青黑蔓延至肘弯，指甲铁灰）；粗盐耗尽，干姜剩余半截；情绪决绝，使命感强化；玉片震颤升级为心跳脉冲，频率随距离加快，指向东南裂口（陆家地库方向）",
+      "validFromChapter": 7,
       "validUntilChapter": null,
-      "sourceChapter": 6
+      "sourceChapter": 7
     },
     {
       "subject": "protagonist",
       "predicate": "当前目标",
-      "object": "进入雾谷云窟，寻找第三枚残片；查明“门后之人”身份；完成父亲沈临渊未竟使命——阻止陆家解封上古云核；应对乱云潮将至",
-      "validFromChapter": 6,
+      "object": "进入雾谷裂口，寻找第三枚残片；查明“门后之人”身份；完成父亲沈临渊未竟使命——阻止陆家解封上古云核；应对乱云潮将至",
+      "validFromChapter": 7,
       "validUntilChapter": null,
-      "sourceChapter": 6
+      "sourceChapter": 7
     },
     {
       "subject": "protagonist",
       "predicate": "当前限制",
-      "object": "每日仅能进山三次，破妄瞳使用一次即折寿一刻；云核无法稳定吸纳云气；粗盐已补充但有限，需合理使用；黑面饼不足半袋；血祭玉片屏障每次折寿一刻并加重云毒；云毒侵蚀加速，需频繁使用粗盐压制",
-      "validFromChapter": 6,
+      "object": "每日仅能进山三次，破妄瞳使用一次即折寿一刻；云核无法稳定吸纳云气；粗盐已耗尽，干姜难续，云毒压制手段枯竭；黑面饼不足半袋；血祭玉片屏障每次折寿一刻并加重云毒；云毒侵蚀加速，需频繁使用粗盐压制（现无法实现）",
+      "validFromChapter": 7,
       "validUntilChapter": null,
-      "sourceChapter": 6
+      "sourceChapter": 7
     },
     {
       "subject": "protagonist",
       "predicate": "当前敌我",
       "object": "陆家护卫（明确敌对，搜山追杀）；沈霁（敌对，当众剥夺嫡系身份）；巡天司密探（潜在威胁）；药铺老者（疑似盟友）；老妇（善意中立，提供指引）",
-      "validFromChapter": 6,
+      "validFromChapter": 7,
       "validUntilChapter": null,
-      "sourceChapter": 6
+      "sourceChapter": 7
     },
     {
       "subject": "protagonist",
       "predicate": "当前冲突",
-      "object": "生存危机（云毒侵蚀、追杀、资源有限）与使命觉醒（承父志、阻止解封、寻找第三残片）；身份剥夺与家族决裂",
-      "validFromChapter": 6,
+      "object": "生存危机（云毒侵蚀、追杀、资源枯竭）与使命觉醒（承父志、阻止解封、寻找第三残片）；身份剥夺与家族决裂；乱云潮迫近加剧时间压力",
+      "validFromChapter": 7,
       "validUntilChapter": null,
-      "sourceChapter": 6
+      "sourceChapter": 7
     }
   ]
 }

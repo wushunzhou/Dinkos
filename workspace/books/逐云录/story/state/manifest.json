@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "language": "zh",
-  "lastAppliedChapter": 6,
+  "lastAppliedChapter": 7,
   "projectionVersion": 1,
   "migrationWarnings": [
     "H001:status normalized from \"伏笔\" to \"open\"",
@@ -41,6 +41,8 @@
     "H001:lastAdvancedChapter normalized from \"第6章\" to 0",
     "H002:lastAdvancedChapter normalized from \"第6章\" to 0",
     "H003:lastAdvancedChapter normalized from \"第6章\" to 0",
-    "H004:lastAdvancedChapter normalized from \"第6章\" to 0"
+    "H004:lastAdvancedChapter normalized from \"第6章\" to 0",
+    "H001:lastAdvancedChapter normalized from \"第7章\" to 0",
+    "H002:lastAdvancedChapter normalized from \"第7章\" to 0"
   ]
 }
