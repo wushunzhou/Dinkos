@@ -245,5 +245,40 @@
       "completionTokens": 5914,
       "totalTokens": 49693
     }
+  },
+  {
+    "number": 8,
+    "title": "裂口",
+    "status": "ready-for-review",
+    "wordCount": 1479,
+    "createdAt": "2026-04-17T14:53:02.881Z",
+    "updatedAt": "2026-04-17T14:53:36.603Z",
+    "auditIssues": [
+      "[warning] 第5-8章连续四章为‘逃亡+线索推进+危机升级’模式，缺乏喘息或情绪释放节点，节奏趋于扁平。",
+      "[warning] 沈逐云情绪在‘决绝’与‘危机感’间反复切换，但缺乏新的压力源或内心转折，情感张力趋于重复。",
+      "[info] H001（残片之谜）与H002（父亲使命）持续推进，玉片搏动停止但方向指引保留，符合设定；血祭失败揭示‘血脉验门，缺一不可’，强化沈家血脉关联，逻辑自洽。",
+      "[info] 寿元折损一刻、干姜消耗至1/4截、云毒侵至肩胛，数值变化清晰；玉片新增裂痕，青气已入体但未觉醒破妄瞳，符合硬约束。",
+      "[info] 本章对应卷纲‘第8章左右：抵达裂口，尝试开门失败，付出代价’，剧情节点匹配，推进节奏合理，未跳过或提前消耗关键转折。"
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 1500,
+      "softMin": 1296,
+      "softMax": 1704,
+      "hardMin": 1091,
+      "hardMax": 1909,
+      "countingMode": "zh_chars",
+      "writerCount": 1010,
+      "postWriterNormalizeCount": 1479,
+      "postReviseCount": 0,
+      "finalCount": 1479,
+      "normalizeApplied": true,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 42219,
+      "completionTokens": 6159,
+      "totalTokens": 48378
+    }
   }
 ]
