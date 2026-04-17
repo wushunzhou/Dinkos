@@ -1,10 +1,16 @@
 {
   "last_reviewed_chapter": 9,
-  "last_reviewed_at": "2026-04-17T14:25:00Z",
+  "last_reviewed_at": "2026-04-17T15:10:00Z",
   "report_files": [
     "review/chapter-0001.md",
     "review/chapter-0002.md",
     "review/chapter-0003.md",
+    "review/chapter-0004.md",
+    "review/chapter-0005.md",
+    "review/chapter-0006.md",
+    "review/chapter-0007.md",
+    "review/chapter-0008.md",
+    "review/chapter-0009.md",
     "review/pending-hooks.md"
   ],
   "auto_fixes_applied": [
@@ -15,7 +21,16 @@
     "canon:volume_outline.md rewritten (逐云令 first volume)"
   ],
   "remaining_criticals": 0,
-  "remaining_warnings_ch1": 2,
-  "remaining_warnings_ch3": 2,
-  "notes": "第3章敏感词与第1章设定冲突/大纲偏离全部清零；剩余项均为节奏/文风/伏笔细化，非阻塞。已挂账 pending-hooks.md 给下章吸收。"
+  "remaining_warnings_ch4": 2,
+  "remaining_warnings_ch5": 2,
+  "remaining_warnings_ch6": 2,
+  "remaining_warnings_ch7": 1,
+  "remaining_warnings_ch8": 2,
+  "remaining_warnings_ch9": 1,
+  "meta_bugs_flagged": [
+    "hooks.json only tracks H001+H002; H003/H004/H005 referenced in chapters but unregistered",
+    "hooks.json lastAdvancedChapter stuck at 0 despite narrative progression ch3-ch8",
+    "ch1 index.json status shows audit-failed artifact from direct /replace edits; fresh re-audit passes"
+  ],
+  "notes": "ch4-ch9 全部 PASS 无 critical。所有 warning 均为节奏/信息密度/情绪喘息类，已通过 pending-hooks.md 机制被后续章节吸收或交付给 ch10 兑现。ch10 破妄瞳首觉 checklist 已完备，起跳条件（濒死+极端情绪+玉片异动+老妇支线回收）全部铺好。"
 }
