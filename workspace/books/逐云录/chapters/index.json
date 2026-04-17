@@ -1,0 +1,105 @@
+[
+  {
+    "number": 1,
+    "title": "逐云令",
+    "status": "audit-failed",
+    "wordCount": 1610,
+    "createdAt": "2026-04-17T12:10:04.363Z",
+    "updatedAt": "2026-04-17T13:19:04.965Z",
+    "auditIssues": [
+      "[warning] 主角在第1章觉醒破妄瞳，但根据卷纲规划，破妄瞳首次觉醒应在第10章左右。当前章节提前消耗了关键能力觉醒节点，可能导致后续成长节奏失衡。",
+      "[warning] H004（玉片血祭激活屏障）在本章通过‘血滴逐云令被吸尽’和‘玉片裂开逸出青气’已有暗示，但未明确体现‘屏障’功能，而第3章才首次使用该能力。建议强化本章中玉片与血液互动的异常性，为后续屏障激活埋下更清晰伏笔。",
+      "[info] 本章文风整体符合‘冷峻、体感强烈’的要求，战斗与心理描写具象（如‘粗麻绳勒进腕骨’‘七窍渗血’）。但‘破妄瞳，觉醒’一句略显突兀，建议改为更具身体感知的描述，如‘视野如裂镜重铸，万物脉络骤现’，以契合‘避免空洞术语’的文风指南。",
+      "[warning] Manual text edit requires review before continuation."
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 1500,
+      "softMin": 1296,
+      "softMax": 1704,
+      "hardMin": 1091,
+      "hardMax": 1909,
+      "countingMode": "zh_chars",
+      "writerCount": 1610,
+      "postWriterNormalizeCount": 0,
+      "postReviseCount": 1610,
+      "finalCount": 1610,
+      "normalizeApplied": false,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 18013,
+      "completionTokens": 4394,
+      "totalTokens": 22407
+    }
+  },
+  {
+    "number": 2,
+    "title": "残片与黑市",
+    "status": "ready-for-review",
+    "wordCount": 1718,
+    "createdAt": "2026-04-17T12:14:02.909Z",
+    "updatedAt": "2026-04-17T12:56:13.795Z",
+    "auditIssues": [
+      "[warning] 第3章中沈逐云肩中毒伤，使用粗盐处理伤口，但资源账本显示粗盐在第2章已耗尽，本章未补充。文中‘从怀里摸出最后一点粗盐’与账本矛盾。",
+      "[warning] H004（玉片血祭激活屏障）在第3章被触发，但文中仅描述‘玉片微微发热，纹路间浮起一丝极淡的青光’，未明确展现‘血祭激活屏障’的功能，与伏笔设定存在轻微脱节。",
+      "[info] 沈逐云在第3章结尾表现出‘决绝与坚定’，情感强度达8，但文中更多体现为震惊、警觉与求生，‘使命觉醒’的转折略显仓促，缺乏足够心理铺垫。",
+      "[info] 本章延续了冷峻、压抑的叙事风格，符合主角处境，但‘寒风像刀子一样’‘像鬼火舔舐’等比喻略显重复，建议在后文避免过度使用同类意象。"
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 1500,
+      "softMin": 1296,
+      "softMax": 1704,
+      "hardMin": 1091,
+      "hardMax": 1909,
+      "countingMode": "zh_chars",
+      "writerCount": 1033,
+      "postWriterNormalizeCount": 1718,
+      "postReviseCount": 0,
+      "finalCount": 1718,
+      "normalizeApplied": true,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 16775,
+      "completionTokens": 4824,
+      "totalTokens": 21599
+    }
+  },
+  {
+    "number": 3,
+    "title": "商栈密语",
+    "status": "ready-for-review",
+    "wordCount": 1725,
+    "createdAt": "2026-04-17T12:20:09.101Z",
+    "updatedAt": "2026-04-17T13:06:31.182Z",
+    "auditIssues": [
+      "[warning] 本章存在轻微视角越界：第3段描写陆家商栈外观时，使用了‘字迹模糊却透出冷硬气势’‘瘦猫绿眼一闪而逝’等带有环境象征意味的描写，超出主角沈逐云当前重伤、警觉状态下的感知精度。沈逐云此时应聚焦于生存与监听，难以分心观察猫的眼神或匾额气势。",
+      "[warning] ‘青光暴涨’‘青光渐盛’‘微光漩涡’等表述连续出现，光效描写略显重复，且‘暴涨’‘渐盛’属于高频视觉强化词，易造成阅读疲劳。",
+      "[info] H004（玉片血祭激活屏障）在本章首次兑现，使用方式合理（咬舌喷血），且代价明确（仅短暂屏障，未过度强化），符合设定。但需注意后续是否保持‘血祭=短暂激活+折寿’的平衡机制。",
+      "[info] 本章为‘线索揭露+身份觉醒’型章节，承接第2章生存压力，通过偷听→追杀→获救→真相揭示四幕推进，节奏紧凑。但济世堂老者出场稍显突兀，缺乏前兆。",
+      "[info] 沈逐云情绪从震惊→恐惧→希望→决绝的上升弧线完整，尤其在得知父亲未死与使命后，动机从‘求生’转向‘承志’，完成关键转变。老者提及‘沈昭’原名时，主角反应强烈，情感张力到位。"
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 1500,
+      "softMin": 1296,
+      "softMax": 1704,
+      "hardMin": 1091,
+      "hardMax": 1909,
+      "countingMode": "zh_chars",
+      "writerCount": 1161,
+      "postWriterNormalizeCount": 2264,
+      "postReviseCount": 1725,
+      "finalCount": 1725,
+      "normalizeApplied": true,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 47659,
+      "completionTokens": 11407,
+      "totalTokens": 59066
+    }
+  }
+]

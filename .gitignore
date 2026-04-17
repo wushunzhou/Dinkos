@@ -11,8 +11,13 @@ coverage/
 _notes/
 _tmp_*
 test-project/
-workspace/
 .venv*/
+
+# Writing workspace: keep canon + chapters + reviews; skip secrets and churn-heavy caches
+workspace/.env
+workspace/**/memory.db
+workspace/**/snapshots/
+workspace/**/runtime/
 .gstack/
 .worktrees/
 docs/*

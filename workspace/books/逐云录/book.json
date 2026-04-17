@@ -1,0 +1,12 @@
+{
+  "id": "逐云录",
+  "title": "逐云录",
+  "platform": "tomato",
+  "genre": "xuanhuan",
+  "status": "active",
+  "targetChapters": 200,
+  "chapterWordCount": 3000,
+  "language": "zh",
+  "createdAt": "2026-04-17T08:41:20.261Z",
+  "updatedAt": "2026-04-17T12:10:04.365Z"
+}

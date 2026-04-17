@@ -1,0 +1,44 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 1,
+      "type": "核心伏笔",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第4-6章",
+      "payoffTiming": "mid-arc",
+      "notes": "玉片确认为残片之一，陆家所夺，与云窟封印相关"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 1,
+      "type": "人物伏笔",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第5-7章",
+      "payoffTiming": "mid-arc",
+      "notes": "父亲沈临渊未死，进入云窟，知晓封印秘密，留下使命"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 1,
+      "type": "世界伏笔",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第6-8章",
+      "payoffTiming": "mid-arc",
+      "notes": "乱云潮将至，云窟将开，陆家欲解封上古云核"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 1,
+      "type": "行动伏笔",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第3章",
+      "payoffTiming": "mid-arc",
+      "notes": "玉片对陆家地库残片产生共鸣，血祭可短暂激活屏障"
+    }
+  ]
+}

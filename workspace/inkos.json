@@ -1,0 +1,27 @@
+{
+  "name": "workspace",
+  "version": "0.1.0",
+  "language": "zh",
+  "llm": {
+    "provider": "custom",
+    "service": "custom",
+    "configSource": "env",
+    "baseUrl": "https://api.longcat.chat/openai",
+    "apiKey": "",
+    "model": "LongCat-Flash-Chat",
+    "temperature": 0.7,
+    "maxTokens": 8192,
+    "thinkingBudget": 0,
+    "apiFormat": "chat",
+    "stream": true
+  },
+  "notify": [],
+  "inputGovernanceMode": "v2",
+  "daemon": {
+    "schedule": {
+      "radarCron": "0 */6 * * *",
+      "writeCron": "*/15 * * * *"
+    },
+    "maxConcurrentBooks": 3
+  }
+}

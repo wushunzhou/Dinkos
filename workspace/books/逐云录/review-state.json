@@ -1,0 +1,21 @@
+{
+  "last_reviewed_chapter": 3,
+  "last_reviewed_at": "2026-04-17T12:55:00Z",
+  "report_files": [
+    "review/chapter-0001.md",
+    "review/chapter-0002.md",
+    "review/chapter-0003.md",
+    "review/pending-hooks.md"
+  ],
+  "auto_fixes_applied": [
+    "ch1:/replace 沈昭=>沈霁 (9 occurrences, antagonist rename)",
+    "ch1:/replace 沈临风=>沈临渊 (2 occurrences, father name unify)",
+    "ch3:/replace 翻墙而出=>攀过墙头 (sensitive word)",
+    "canon:story_bible.md rewritten (沈逐云 route)",
+    "canon:volume_outline.md rewritten (逐云令 first volume)"
+  ],
+  "remaining_criticals": 0,
+  "remaining_warnings_ch1": 2,
+  "remaining_warnings_ch3": 2,
+  "notes": "第3章敏感词与第1章设定冲突/大纲偏离全部清零；剩余项均为节奏/文风/伏笔细化，非阻塞。已挂账 pending-hooks.md 给下章吸收。"
+}
