@@ -353,5 +353,40 @@
       "completionTokens": 6756,
       "totalTokens": 52379
     }
+  },
+  {
+    "number": 11,
+    "title": "岩醒",
+    "status": "audit-failed",
+    "wordCount": 1917,
+    "createdAt": "2026-04-18T05:30:27.842Z",
+    "updatedAt": "2026-04-18T05:35:06.503Z",
+    "auditIssues": [
+      "[warning] 章节后半段（从'岩壁湿滑，苔藓黏腻'开始）与前半段在情节推进上存在明显重复，包括钥孔试探、九爷情报、失明三日、拄壁前行等关键动作被重复叙述，违反本章控制输入中'合并两段为一个连贯叙事流'的明确要求。",
+      "[warning] '赤红'出现4次，'云痕'出现6次，'裂口'出现5次，高频重复削弱表现力；'如'字比喻结构使用密集（如'如枯枝断裂''如蚁噬''如裂镜重铸'等），虽未超AI标记词限制，但修辞趋同。",
+      "[info] 全章为单一'行动+感知'模式，缺乏情绪或情境转折，结尾虽以脚步声悬疑收束，但整体仍属线性推进，未形成有效节奏变化。",
+      "[info] 提及'第三残片，或在此处'，使用'或'字削弱确定性，与破妄瞳'辨得岩壁云痕流动'所应提供的明确指引略有矛盾，可能误导读者对线索强度的判断。",
+      "[warning] Manual text edit requires review before continuation."
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 1900,
+      "softMin": 1641,
+      "softMax": 2159,
+      "hardMin": 1382,
+      "hardMax": 2418,
+      "countingMode": "zh_chars",
+      "writerCount": 1687,
+      "postWriterNormalizeCount": 0,
+      "postReviseCount": 1917,
+      "finalCount": 1917,
+      "normalizeApplied": true,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 45779,
+      "completionTokens": 6254,
+      "totalTokens": 52033
+    }
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "last_reviewed_chapter": 10,
-  "last_reviewed_at": "2026-04-17T18:40:00Z",
+  "last_reviewed_chapter": 11,
+  "last_reviewed_at": "2026-04-17T19:10:00Z",
   "report_files": [
     "review/chapter-0001.md",
     "review/chapter-0002.md",
@@ -12,6 +12,7 @@
     "review/chapter-0008.md",
     "review/chapter-0009.md",
     "review/chapter-0010.md",
+    "review/chapter-0011.md",
     "review/pending-hooks.md"
   ],
   "auto_fixes_applied": [
@@ -20,7 +21,9 @@
     "ch3:/replace 翻墙而出=>攀过墙头 (sensitive word)",
     "canon:story_bible.md rewritten (沈逐云 route)",
     "canon:volume_outline.md rewritten (逐云令 first volume)",
-    "ch10:/replace ×4 (破折号 ×2 清零, 仿佛 3→1 压线)"
+    "ch10:/replace ×4 (破折号 ×2 清零, 仿佛 3→1 压线)",
+    "ch11:revise --mode rework (dedup 后半段重复叙事)",
+    "ch11:/replace ×8 (破折号 ×5 清零, 仿佛 4→1, 不是而是 ×1 清零)"
   ],
   "remaining_criticals": 0,
   "remaining_warnings_ch4": 2,
